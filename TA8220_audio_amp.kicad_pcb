@@ -106,9 +106,9 @@
 		(descr "JST XH series connector, B4B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST XH vertical")
 		(property "Reference" "J2"
-			(at 3.7057 1.649376 180)
+			(at 3.703612 1.77607 180)
 			(layer "F.SilkS")
-			(uuid "c3b9dfcc-933d-4a36-85aa-d4e8e43d814f")
+			(uuid "bd3086f8-6587-44fe-a0e8-8d3037138ee5")
 			(effects
 				(font
 					(size 1 1)
@@ -117,9 +117,9 @@
 			)
 		)
 		(property "Value" "Output"
-			(at 3.75 4.6 90)
+			(at 6.525 0.208642 180)
 			(layer "F.Fab")
-			(uuid "7276a084-1357-44be-8094-4e95622740e4")
+			(uuid "0cb63945-1876-4fb8-85f1-96ea3df96bf6")
 			(effects
 				(font
 					(size 1 1)
@@ -131,7 +131,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5245a591-eb78-40bf-9e72-669040adb9c6")
+			(uuid "e481cb3c-e3d9-43dc-8c58-f86e7b5867b0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -143,7 +143,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a6999362-ad17-47c5-905c-c46265a4662f")
+			(uuid "06c57af1-9133-4be6-aeca-fe1db41e1e7f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -496,17 +496,6 @@
 			(layer "F.Fab")
 			(uuid "31c8ba5e-beb1-4037-ab73-ef3b80552448")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 3.75 2.7 90)
-			(layer "F.Fab")
-			(uuid "4faf224b-a8c2-4932-8f36-da7ca00d82e3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "1" thru_hole roundrect
 			(at 0 0 270)
 			(size 1.7 1.95)
@@ -582,7 +571,7 @@
 			)
 		)
 		(property "Value" "1000p"
-			(at 0.05 0.9 180)
+			(at -3.302 -1.524 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "19a76d59-067b-4085-9956-e96088686f42")
@@ -687,7 +676,7 @@
 			)
 		)
 		(property "Value" "25v47uF"
-			(at 1.25 3.75 90)
+			(at -1.37 0 180)
 			(layer "F.Fab")
 			(uuid "1468e28f-abf9-47b8-92c9-d48847cdc78c")
 			(effects
@@ -2042,7 +2031,7 @@
 			)
 		)
 		(property "Value" "25v4.7uF"
-			(at 1.25 3.75 90)
+			(at 6.248129 -1.319 180)
 			(layer "F.Fab")
 			(uuid "17bba02e-4a4c-4a46-b158-3e84adeaeacc")
 			(effects
@@ -3334,17 +3323,6 @@
 			(layer "F.Fab")
 			(uuid "2ab85ed8-e96e-44c7-b81b-ecb684a8429a")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 1.25 0 90)
-			(layer "F.Fab")
-			(uuid "079bdb8b-d3f9-475a-9815-7ebc164d3040")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "1" thru_hole roundrect
 			(at 0 0 270)
 			(size 1.6 1.6)
@@ -3397,7 +3375,7 @@
 			)
 		)
 		(property "Value" "1000uF"
-			(at 2.5 6.25 90)
+			(at -0.922945 0.709664 180)
 			(layer "F.Fab")
 			(uuid "e4a08b7b-6ee9-47c3-b15d-090cb4c1ef92")
 			(effects
@@ -5471,7 +5449,7 @@
 			)
 		)
 		(property "Value" "0.12uF"
-			(at 0.05 0.9 270)
+			(at 1.27 -0.508 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "bdc7cc3b-8c74-4ddb-b921-4e51f927387f")
@@ -5524,18 +5502,6 @@
 			(layer "F.CrtYd")
 			(uuid "e771a683-77d3-4a91-bc59-0fb9a347c4df")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 2.5 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(uuid "a83a7b3e-9167-4f18-b818-3353cee1fbb3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "1" thru_hole circle
 			(at -3.81 0 270)
 			(size 1.905 1.905)
@@ -5575,7 +5541,7 @@
 			)
 		)
 		(property "Value" "1000p"
-			(at 0.05 0.9 0)
+			(at -0.121006 -0.040352 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "6bacc9d5-ad96-4038-8ef3-f18ded6807c6")
@@ -5679,7 +5645,7 @@
 			)
 		)
 		(property "Value" "0.12uF"
-			(at 0.05 0.9 270)
+			(at 1.524 -0.508 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "d66905a4-4bfa-4372-bebb-adc32d9ed941")
@@ -5732,18 +5698,6 @@
 			(layer "F.CrtYd")
 			(uuid "4675141d-dca1-4e67-91b3-4363ed268142")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 2.5 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(uuid "53c88faa-7fc0-41eb-8db6-0ba87dfb875e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "1" thru_hole circle
 			(at -3.81 0 270)
 			(size 1.905 1.905)
@@ -5773,9 +5727,9 @@
 		(descr "Resistor, Axial_DIN0617 series, Axial, Horizontal, pin pitch=20.32mm, 2W, length*diameter=17*6mm^2, http://www.vishay.com/docs/20128/wkxwrx.pdf")
 		(tags "Resistor Axial_DIN0617 series Axial Horizontal pin pitch 20.32mm 2W length 17mm diameter 6mm")
 		(property "Reference" "R1"
-			(at 10.116737 0.045706 180)
+			(at 10.16 0 180)
 			(layer "F.SilkS")
-			(uuid "d5e0d462-373c-4747-bcad-e30ddd9c2ea5")
+			(uuid "ca2d09c5-a0cb-4020-8abc-216ef8c63669")
 			(effects
 				(font
 					(size 1 1)
@@ -5784,9 +5738,9 @@
 			)
 		)
 		(property "Value" "2.2"
-			(at 10.16 4.12 90)
+			(at 11.605847 -0.021632 180)
 			(layer "F.Fab")
-			(uuid "19180aa7-4c2a-4932-9434-757d077c4f2d")
+			(uuid "f75d6cf7-8df3-4e57-8407-afcd82206c5f")
 			(effects
 				(font
 					(size 1 1)
@@ -5798,7 +5752,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5bd68ae4-dbfb-4482-85ea-e87a307b0232")
+			(uuid "07f80acc-6e07-4b0b-8a65-98fe893c29ed")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5810,7 +5764,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c9ae0688-322c-4de0-8859-f25fb9e134de")
+			(uuid "5a18ea7f-9355-4160-9a5b-2b24584e90b8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5895,17 +5849,6 @@
 			(fill no)
 			(layer "F.Fab")
 			(uuid "9ac9641f-d37f-447c-8a49-571edc83bb0f")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 10.16 0 90)
-			(layer "F.Fab")
-			(uuid "848f2b8b-a414-4f57-911a-b73863a884f2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
 		)
 		(pad "1" thru_hole circle
 			(at 0 0 270)
@@ -6329,7 +6272,7 @@
 			)
 		)
 		(property "Value" "25v4.7uF"
-			(at 1.25 3.75 90)
+			(at -0.247719 -1.6075 180)
 			(layer "F.Fab")
 			(uuid "4d420994-a596-4baa-843f-d6bab646183f")
 			(effects
@@ -8063,17 +8006,6 @@
 			(layer "F.Fab")
 			(uuid "307fae50-c49f-48fd-950d-fda6cee5060e")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 2.5 2.7 0)
-			(layer "F.Fab")
-			(uuid "ad4b2336-44b0-4dab-b68c-053b789601a6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "1" thru_hole roundrect
 			(at 0 0)
 			(size 1.7 1.95)
@@ -8327,7 +8259,7 @@
 		(uuid "b8713f08-3367-4f2b-a47f-24f3cbce858f")
 		(at 165.862 46.736 -90)
 		(property "Reference" "C9"
-			(at 0 -0.5 0)
+			(at 0 -0.508 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "f8d70c73-8b89-466f-b3e5-bf398e5979b4")
@@ -8339,7 +8271,7 @@
 			)
 		)
 		(property "Value" "0.12uF"
-			(at 0.05 0.9 270)
+			(at 1.27 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "488c8099-1aff-498d-a062-8afbb55894ba")
@@ -8391,18 +8323,6 @@
 			(fill no)
 			(layer "F.CrtYd")
 			(uuid "fcbebb3b-88ad-4dfe-ac12-668248df7f31")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 2.5 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(uuid "460d438f-d9ff-40a0-8a16-d3b3724810d8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
 		)
 		(pad "1" thru_hole circle
 			(at -3.81 0 270)
@@ -8823,17 +8743,6 @@
 			(layer "F.Fab")
 			(uuid "90cebee2-fdac-4f80-a581-5ffcd0624b93")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 1.25 2.7 0)
-			(layer "F.Fab")
-			(uuid "db1101b9-e5d7-4bc6-85c0-9d6c6ec188e5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "1" thru_hole roundrect
 			(at 0 0)
 			(size 1.7 2)
@@ -8877,7 +8786,7 @@
 		(descr "Resistor, Axial_DIN0617 series, Axial, Horizontal, pin pitch=20.32mm, 2W, length*diameter=17*6mm^2, http://www.vishay.com/docs/20128/wkxwrx.pdf")
 		(tags "Resistor Axial_DIN0617 series Axial Horizontal pin pitch 20.32mm 2W length 17mm diameter 6mm")
 		(property "Reference" "R2"
-			(at 10.169071 0.019539 180)
+			(at 10.16 0 180)
 			(layer "F.SilkS")
 			(uuid "94b00de2-f50e-4404-a4a3-f6b1434f40c7")
 			(effects
@@ -8888,7 +8797,7 @@
 			)
 		)
 		(property "Value" "2.2"
-			(at 10.16 4.12 90)
+			(at 11.815187 0.084434 180)
 			(layer "F.Fab")
 			(uuid "4cb865b6-48cc-44b2-9947-18354f88e42f")
 			(effects
@@ -9000,17 +8909,6 @@
 			(layer "F.Fab")
 			(uuid "e8dcfe99-0d55-40cd-8462-87a645f1dbe9")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 10.16 0 90)
-			(layer "F.Fab")
-			(uuid "0b559a13-1d28-4aa2-b428-98b2864f26bb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "1" thru_hole circle
 			(at 0 0 270)
 			(size 2.4 2.4)
@@ -9061,7 +8959,7 @@
 			)
 		)
 		(property "Value" "0.12uF"
-			(at 0.05 0.9 270)
+			(at 1.524 -0.508 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "bf09246d-65d8-4f6e-8341-9b5f9bf5ee1e")
@@ -9113,18 +9011,6 @@
 			(fill no)
 			(layer "F.CrtYd")
 			(uuid "b1ac4224-3708-4658-823a-8be1227970b3")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 2.5 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(uuid "07a5720c-9864-4d4a-bf5c-99e18bfee92b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
 		)
 		(pad "1" thru_hole circle
 			(at -3.81 0 270)
@@ -9267,7 +9153,7 @@
 			)
 		)
 		(property "Value" "25v47uF"
-			(at 1.25 3.75 90)
+			(at -0.721997 -1.725 180)
 			(layer "F.Fab")
 			(uuid "d72ee5b1-2b18-4858-a658-f934d9178b29")
 			(effects
@@ -10622,7 +10508,7 @@
 			)
 		)
 		(property "Value" "25v220uF"
-			(at 2.5 5.25 0)
+			(at -1.62 0 0)
 			(layer "F.Fab")
 			(uuid "4aef16e3-9351-42e9-8671-b891f63f7b9f")
 			(effects
@@ -12336,7 +12222,7 @@
 		(descr "Resistor, Axial_DIN0617 series, Axial, Horizontal, pin pitch=20.32mm, 2W, length*diameter=17*6mm^2, http://www.vishay.com/docs/20128/wkxwrx.pdf")
 		(tags "Resistor Axial_DIN0617 series Axial Horizontal pin pitch 20.32mm 2W length 17mm diameter 6mm")
 		(property "Reference" "R3"
-			(at 10.169072 0.019539 180)
+			(at 10.16 0 180)
 			(layer "F.SilkS")
 			(uuid "b168f754-e5d2-47c1-af8a-9082796e2930")
 			(effects
@@ -12347,7 +12233,7 @@
 			)
 		)
 		(property "Value" "2.2"
-			(at 10.16 4.12 90)
+			(at 12.226193 -0.02233 180)
 			(layer "F.Fab")
 			(uuid "ff6cbfcb-d760-44a6-91ba-de7fa63891c4")
 			(effects
@@ -12459,17 +12345,6 @@
 			(layer "F.Fab")
 			(uuid "36b0bf51-1760-40fb-87b1-8c5612e4f403")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 10.16 0 90)
-			(layer "F.Fab")
-			(uuid "968b35c4-783c-4334-a866-b69d686d2135")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "1" thru_hole circle
 			(at 0 0 270)
 			(size 2.4 2.4)
@@ -12510,9 +12385,9 @@
 		(descr "Resistor, Axial_DIN0617 series, Axial, Horizontal, pin pitch=20.32mm, 2W, length*diameter=17*6mm^2, http://www.vishay.com/docs/20128/wkxwrx.pdf")
 		(tags "Resistor Axial_DIN0617 series Axial Horizontal pin pitch 20.32mm 2W length 17mm diameter 6mm")
 		(property "Reference" "R4"
-			(at 10.090568 0.071873 180)
+			(at 10.16 0 180)
 			(layer "F.SilkS")
-			(uuid "cab1a7d2-7b4d-4a06-a6f9-b1cdd76fee71")
+			(uuid "8e163c2a-5e45-4b51-b293-0b516167be29")
 			(effects
 				(font
 					(size 1 1)
@@ -12521,9 +12396,9 @@
 			)
 		)
 		(property "Value" "2.2"
-			(at 10.16 4.12 90)
+			(at 11.815187 -0.010468 180)
 			(layer "F.Fab")
-			(uuid "08b2ee12-b15c-4cd8-9d9b-d36b79cb054c")
+			(uuid "0b3db757-8797-420b-9b32-16a24f746136")
 			(effects
 				(font
 					(size 1 1)
@@ -12535,7 +12410,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4a752a49-7c09-4964-b25d-fd0b2cfac8ae")
+			(uuid "2e5bf67a-6a81-4e4c-a23f-efb4e95429a2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12547,7 +12422,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "32969e83-66a7-4b74-afbd-3d6fb8b19b1b")
+			(uuid "b9e5f60d-c539-4a41-a7c4-0efae17017b8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12632,17 +12507,6 @@
 			(fill no)
 			(layer "F.Fab")
 			(uuid "72178f9d-4403-4b13-8b5d-9329b4e3f8f1")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 10.16 0 90)
-			(layer "F.Fab")
-			(uuid "118356cf-d946-4784-a8a8-cb9464e39a66")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
 		)
 		(pad "1" thru_hole circle
 			(at 0 0 270)
