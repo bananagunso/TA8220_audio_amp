@@ -3230,7 +3230,7 @@
 				)
 			)
 		)
-		(property "Value" "25v4.7uF"
+		(property "Value" "25v0.47uF"
 			(at 41.656 71.12 90)
 			(effects
 				(font
@@ -3437,7 +3437,7 @@
 				)
 			)
 		)
-		(property "Value" "25v4.7uF"
+		(property "Value" "25v0.47uF"
 			(at 40.386 85.09 90)
 			(effects
 				(font
